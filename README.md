@@ -8,10 +8,7 @@ Additionally, numbers pertaining to the epidemiology and burden of the malaise w
 In a second moment, this investigation will introduce the therapy object of the investigation: Deep Brain Stimulation (DBS). 
 The benefits of DBS in refractory epilepsy have been previously investigated in various randomized trials. 
 Stimulation of the anterior thalamic nucleus (ANT) obtained a conformité européenne (CE) certification in Europe, as well as approval by the Food and Drug Administration (FDA) in the United States.
-To round up the analysis, further scrutiny of present treatments available to cure patients and additional therapies when such options do not work out will also be presented.
-At that stage, it will become more appropriate, in light of the awareness gained via the introduction, to introduce the empirical questions this thesis aims to answer.
-These are: firstly a quantification of the benefits of DBS for refractory epilepsy. Subsequently, what policy recommendations can be formulated in view of such an outcome.
-To tackle the first, results from a systematic review of the randomized controlled trials and open label studies conducted thus far will be presented.
+Results from a systematic review of the randomized controlled trials and open label studies conducted thus far will be presented.
 This will entail critical qualitative examination, to address the difference in study designs and outcomes of different clinical experiences.
 The methodology adopted for the identification of empirical results will be made explicit, featuring inclusion and exclusion criteria.
 Stemming from a careful selection of papers based on the PICO framework, a meta-analysis will eventually be performed.
