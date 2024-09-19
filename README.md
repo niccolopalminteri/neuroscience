@@ -1,5 +1,5 @@
 Epilepsy is one of the most widespread neurological diseases that affect humanity.
-Around 50 million people are diagnosed with this condition, resulting in pronounced impediments to their existence ([WHO, 2024]([url](https://www.who.int/news-room/fact-sheets/detail/epilepsy)).
+Around 50 million people are diagnosed with this condition, resulting in pronounced impediments to their existence ([WHO, 2024]([url](https://www.who.int/news-room/fact-sheets/detail/epilepsy))).
 Even more concerning are the consequences stemming from epileptic forms resistant to pharmaceutical therapy, giving rise to refractory epilepsy (RE).
 The spirit pillaring this work is the one of shedding light on a disease form whose risks have often received insufficient attention (Laxer et al., 2014).
 The introduction serves a pivotal purpose in the development of the arguments surveyed by this work. Here, an examination of the nature of the disease and the mechanism by which this phenomenon takes place will be undertaken,
