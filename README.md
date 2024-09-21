@@ -2,9 +2,7 @@ Epilepsy is one of the most widespread neurological diseases that affect humanit
 Around 50 million people are diagnosed with this condition, resulting in pronounced impediments to their existence ([WHO, 2024]([url](https://www.who.int/news-room/fact-sheets/detail/epilepsy))).
 Even more concerning are the consequences stemming from epileptic forms resistant to pharmaceutical therapy, giving rise to refractory epilepsy (RE).
 The spirit pillaring this work is the one of shedding light on a disease form whose risks have often received insufficient attention (Laxer et al., 2014).
-The introduction serves a pivotal purpose in the development of the arguments surveyed by this work. Here, an examination of the nature of the disease and the mechanism by which this phenomenon takes place will be undertaken,
-with the goal of laying the foundations of a comprehension of what this disease amounts to. Parallelly, an up-to-date framework of classification of the disease will be submitted.
-Additionally, numbers pertaining to the epidemiology and burden of the malaise will be included. This will be done by appraising both the monetary and social costs engendered by epilepsy.
+This will be done by appraising both the monetary and social costs engendered by epilepsy.
 In a second moment, this investigation will introduce the therapy object of the investigation: Deep Brain Stimulation (DBS). 
 The benefits of DBS in refractory epilepsy have been previously investigated in various randomized trials. 
 Stimulation of the anterior thalamic nucleus (ANT) obtained a conformité européenne (CE) certification in Europe, as well as approval by the Food and Drug Administration (FDA) in the United States.
